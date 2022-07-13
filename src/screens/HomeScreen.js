@@ -180,7 +180,8 @@ sectionTitleStyle:{
   fontWeight:'bold',
   fontSize:20,
 },
-cardImageStyle:{height:220,
+cardImageStyle:{
+height:220,
 width:width / 2,
 marginRight:20,
 padding:10,

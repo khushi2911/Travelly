@@ -21,14 +21,14 @@ const OnBoardScreen = ({ navigation }) => {
           <Text
             style={{ color: COLORS.white, fontSize: 35, fontWeight: "bold" }}
           >
-            {" "}
-            Discover{" "}
+           
+            Discover
           </Text>
           <Text
             style={{ color: COLORS.white, fontSize: 35, fontWeight: "bold" }}
           >
-            {" "}
-            world with us{" "}
+         
+            world with us
           </Text>
           <TouchableOpacity
             activeOpacity={0.8}
